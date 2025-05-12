@@ -1,0 +1,22 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment directories
+venv/
+env/
+
+# PyCharm/IDEA files
+.idea/
+
+# macOS junk
+.DS_Store
+
+# Project-specific directories
+notebooks/.ipynb_checkpoints/
+data/
