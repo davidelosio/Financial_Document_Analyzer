@@ -1,0 +1,7 @@
+pandas
+beautifulsoup4
+transformers
+torch
+matplotlib
+faker
+tiktoken
