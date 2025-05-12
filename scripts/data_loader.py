@@ -21,7 +21,6 @@ EXPENSE_CATEGORIES = {
     ]
 }
 
-# Realistic sector names (mimicking ATECO codes)
 SECTORS = ["Manufacturing", "Retail", "Construction", "Services"]
 
 
